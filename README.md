@@ -6,10 +6,10 @@
 ### What I am (or was) up to:
 #### Research & Software Development 💻
 - Working on Distributed Machine Learning research at **Emory University**. Now
-- Built a data ingestion system and a customized user setting recommandation system at **Amazon Web Services (AWS)**. Summer & Fall 2022
-- Worked fullstack development for [**SearchNEU**](https://searchneu.com/), a course search engine with 7k+ unique monthly users. Fall 2022
-- Worked fullstack development for [**Khoury Office Hours**](https://github.com/sandboxnu/office-hours), a web application to streamline office hours at Northeastern. Fall 2021 & Spring 2022
-- Built an automated user-balance minitoring system at [**Poloniex Crypto Exchange**](https://poloniex.com/). Summer & Fall 2021
+- Built a data ingestion system and a customized user setting recommandation system at **Amazon Web Services (AWS)**. 2022
+- Worked fullstack development for [**SearchNEU**](https://searchneu.com/), a course search engine with 7k+ unique monthly users. 2022
+- Worked fullstack development for [**Khoury Office Hours**](https://github.com/sandboxnu/office-hours), a web application to streamline office hours at Northeastern. 2021 - 2022
+- Built an automated user-balance minitoring system at [**Poloniex Crypto Exchange**](https://poloniex.com/). 2021
 #### Teaching 📚
 - TA for [CS3800](https://searchneu.com/NEU/202310/classPage/CS/3800) Theory of Computation. Summer 2022 & Spring 2023
 - TA for [CS3000](https://searchneu.com/NEU/202260/search/CS3000) Algorithms & Data. Spring 2022
