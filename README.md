@@ -6,7 +6,7 @@
 ### What I am (or was) up to:
 #### Research & Software Development 💻
 - Working on Distributed Machine Learning research at **Emory University**. Now
-- Built a data ingestion system and a customized user setting recommandating system at **Amazon Web Services (AWS)**. Summer & Fall 2022
+- Built a data ingestion system and a customized user setting recommandation system at **Amazon Web Services (AWS)**. Summer & Fall 2022
 - Worked fullstack development for [**SearchNEU**](https://searchneu.com/), a course search engine with 7k+ unique monthly users. Fall 2022
 - Worked fullstack development for [**Khoury Office Hours**](https://officehours.khoury.northeastern.edu/), a web application to streamline office hours at Northeastern. Fall 2021 & Spring 2022
 - Built an automated user-balance minitoring system at [**Poloniex Crypto Exchange**](https://poloniex.com/). Summer & Fall 2021
