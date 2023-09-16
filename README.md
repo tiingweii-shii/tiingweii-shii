@@ -12,7 +12,7 @@
 - Built an automated user-balance minitoring system at [**Poloniex Crypto Exchange**](https://poloniex.com/). 2021
 #### Teaching 📚
 - TA for [CS3800](https://searchneu.com/NEU/202310/classPage/CS/3800) Theory of Computation. Summer 2022 & Spring 2023
-- TA for [CS3000](https://searchneu.com/NEU/202260/search/CS3000) Algorithms & Data. Spring 2022
+- TA for [CS3000](https://searchneu.com/NEU/202260/classPage/CS/3000) Algorithms & Data. Spring 2022
 - TA for [CS2800](https://www.khoury.northeastern.edu/home/pete/courses/Logic-and-Computation/2022-Spring/) Logic and Computation. Fall 2020 & Spring 2021
 - TA for [CS1800](https://course.ccs.neu.edu/cs1800f22/) Discrete Structures. Spring & Summer 2020
 <!--🔭 I’m currently working on ...
