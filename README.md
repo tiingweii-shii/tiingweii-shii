@@ -1,7 +1,7 @@
 ## Hi, I'm Tingwei :D
 👩🏻‍💻 I’m a Software Engineer who is passionate about developing software that creates meaningful impact.
 
-🐾 I recently graduated from Northeastern University, studying Computer Science and Physics, with a minor in Mathematics.
+<!--🐾 I recently graduated from Northeastern University, studying Computer Science and Physics, with a minor in Mathematics.-->
 
 ### What I am (or was) up to:
 #### Research & Software Development 💻
